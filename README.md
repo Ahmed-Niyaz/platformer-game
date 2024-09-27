@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Platformer Game Demo](https://ahmed-niyaz.github.io/platform-game/)
+[Platformer Game Demo](https://ahmed-niyaz.github.io/platformer-game/)
 
 ## Overview
 
