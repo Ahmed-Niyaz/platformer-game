@@ -1,8 +1,6 @@
 # Platformer Game
 
-## Demo
-
-[Platformer Game Demo](https://ahmed-niyaz.github.io/platformer-game/)
+## [Live Demo](https://ahmed-niyaz.github.io/platformer-game/)
 
 ## Overview
 
